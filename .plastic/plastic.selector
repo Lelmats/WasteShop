@@ -1,0 +1,4 @@
+repository "WasteShop@MaxCloud@cloud"
+  path "/"
+    br "/main"
+    co "/main"

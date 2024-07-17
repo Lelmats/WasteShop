@@ -1,0 +1,11 @@
+# ninja log v5
+456	2560	7362461054972176	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4e3d4c1369ffd39e
+2	4896	7362461077978260	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	856feda6943cf5b9
+170	5434	7362461077107755	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f115638e598e0beb
+312	5505	7362461079609422	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2dd76a67c2fc974
+114	5510	7362461079147030	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6b70c4a9b465166a
+30	5530	7362461080734173	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	dac92e40af3af394
+227	5535	7362461083566718	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	75e9e8984f594fa2
+14	5537	7362461083864410	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3fb0d54f8c5ea033
+2563	5551	7362461081833496	C:/Users/maxal/Documents/WasteShop/Library/PramData/AndroidApplicationController/Cache/com.MaxRivera.WasteShop/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4f5i6o41/obj/arm64-v8a/libswappywrapper.so	36080bc4e3ade332
+5537	5955	7362461089418273	C:/Users/maxal/Documents/WasteShop/Library/PramData/AndroidApplicationController/Cache/com.MaxRivera.WasteShop/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4f5i6o41/obj/arm64-v8a/libgame.so	c92466c617ac5df1
