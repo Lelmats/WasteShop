@@ -8,3 +8,4 @@
   <img src="https://github.com/Lelmats/WasteShop/blob/main/Gifs/WasteShopGif_2_Compress.gif" width="700"/>
 </div>
 
+3D Models by [@gplablosl] (https://www.github.com/gpablosl), Sketchfab and somewhere.
