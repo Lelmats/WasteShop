@@ -2,6 +2,8 @@
 <div id="header" align="center">
   <h2 align="center"> Login Interactions / LeaderBoard Deploy and MySql ✋🔑</h2>
   <img src="https://github.com/Lelmats/WasteShop/blob/main/Gifs/WasteShopGif_1.gif" width="700"/>
+  <img src="https://github.com/Lelmats/WasteShop/blob/main/Gifs/db.png" width="700"/>
+  <img src="https://github.com/Lelmats/WasteShop/blob/main/Gifs/leaderboard.jpg" width="700"/>
 </div>
 <div id="header" align="center">
   <h2 align="center"> Game Interaction ✋🎮</h2>
