@@ -1,6 +1,6 @@
 <h1 align="center"> WasteShop 🏪🛢️🔥 ♾+🥽+🎮</h1>
 <div id="header" align="center">
-  <h2 align="center"> Login Interactions / LeaderBoard deploy ✋🔑</h2>
+  <h2 align="center"> Login Interactions / LeaderBoard Deploy and MySql and  ✋🔑</h2>
   <img src="https://github.com/Lelmats/WasteShop/blob/main/Gifs/WasteShopGif_1.gif" width="700"/>
 </div>
 <div id="header" align="center">
